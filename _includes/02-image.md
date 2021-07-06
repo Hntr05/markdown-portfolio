@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Frog Image](https://www.aquariumofpacific.org/images/exhibits/Magnificent_Tree_Frog_900.jpg)
